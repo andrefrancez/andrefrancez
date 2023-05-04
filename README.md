@@ -1,13 +1,13 @@
 ### Olá! Eu sou o André. 👋
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="174em" src="https://github-readme-stats.vercel.app/api?username=AndreFrancez&show_icons=true&theme=darcula" />
+<a href="https://github.com/andrefrancezs">
+  <img align="left" height="174em" src="https://github-readme-stats-andrefrancez.vercel.app/api?username=AndreFrancez&show_icons=true&theme=darcula" />
 </a>
 Bem-vindo ao meu perfil! Aqui você encontrará alguns dos projetos que estou estudando.
 Meu objetivo é me especializar na área de back-end web. Para isso, estou estudando várias tecnologias, incluindo C#, ASP.NET Core, .NET, e o banco de dados SQL Server. Além disso, estou usando o Azure Data Studio como ferramenta de gerenciamento de banco de dados e Postman para testas as APIs.
 <br><br><br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreFrancez&layout=compact&theme=darcula" />
+<a href="https://github.com/andrefrancez">
+  <img align="right" height="165em" src="https://github-readme-stats-andrefrancez.vercel.app/api/top-langs/?username=AndreFrancez&layout=compact&theme=darcula" />
 </a>
 <br><br><br><br><br>
 <div>
