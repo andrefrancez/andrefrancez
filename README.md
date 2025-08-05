@@ -3,8 +3,10 @@
 <a href="https://github.com/andrefrancezs">
   <img align="left" height="150m" src="https://github-readme-stats-andrefrancezs-projects.vercel.app/api?username=AndreFrancez&show_icons=true&theme=darcula" />
 </a>
-Bem-vindo ao meu perfil! Aqui você encontrará alguns dos projetos que estou estudando.
-Meu objetivo é me especializar na área de back-end web. Para isso, estou estudando várias tecnologias, incluindo .NET, ASP.NET Core, JavaScript, React e o banco de dados SQL Server. Além disso, estou usando o Azure Data Studio como ferramenta de gerenciamento de banco de dados e Postman para testas as APIs.
+Bem-vindo ao meu perfil!
+Aqui você encontrará alguns dos projetos que estou desenvolvendo durante meus estudos. Meu foco principal é me especializar na área de desenvolvimento back-end web, mas também tenho grande interesse em atuar com suporte técnico, unindo conhecimento prático com a resolução de problemas do dia a dia.
+
+Atualmente, estou estudando diversas tecnologias como .NET, ASP.NET Core, JavaScript, React e o banco de dados SQL Server. Para gerenciamento de dados, utilizo o Azure Data Studio, e para testes de APIs, o Postman.
 <br><br><br>
 <a href="https://github.com/andrefrancez">
   <img align="right" height="145em" src="https://github-readme-stats-andrefrancezs-projects.vercel.app/api/top-langs/?username=AndreFrancez&layout=compact&theme=darcula" />
